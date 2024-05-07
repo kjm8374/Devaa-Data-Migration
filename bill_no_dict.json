@@ -1,0 +1,820 @@
+{
+    "CN-2": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            -150.0
+        ],
+        "Bill Amt": -1699.0,
+        "Flag": 1
+    },
+    "CN-3": {
+        "Payment Modes": [],
+        "Recieved Amt": [],
+        "Bill Amt": -1799.0,
+        "Flag": 1
+    },
+    "DA-1557": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            1499.0
+        ],
+        "Bill Amt": 1499.0,
+        "Flag": 0
+    },
+    "DA-1558": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            9830.0
+        ],
+        "Bill Amt": 9830.0,
+        "Flag": 0
+    },
+    "DA-1559": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            4340.0
+        ],
+        "Bill Amt": 4340.0,
+        "Flag": 0
+    },
+    "DA-1560": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            10688.0
+        ],
+        "Bill Amt": 10688.0,
+        "Flag": 0
+    },
+    "DA-1561": {
+        "Payment Modes": [
+            10
+        ],
+        "Recieved Amt": [
+            1549.0
+        ],
+        "Bill Amt": 1549.0,
+        "Flag": 0
+    },
+    "DA-1562": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            1790.0
+        ],
+        "Bill Amt": 1790.0,
+        "Flag": 0
+    },
+    "DA-1563": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            4493.0
+        ],
+        "Bill Amt": 4493.0,
+        "Flag": 0
+    },
+    "DA-1564": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            3697.0
+        ],
+        "Bill Amt": 3697.0,
+        "Flag": 0
+    },
+    "DA-1565": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            88.0
+        ],
+        "Bill Amt": 88.0,
+        "Flag": 0
+    },
+    "DA-1566": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            3062.0
+        ],
+        "Bill Amt": 3062.0,
+        "Flag": 0
+    },
+    "DA-1567": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            1458.0
+        ],
+        "Bill Amt": 1458.0,
+        "Flag": 0
+    },
+    "DA-1568": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            5289.0
+        ],
+        "Bill Amt": 5289.0,
+        "Flag": 0
+    },
+    "DA-1569": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            200.0
+        ],
+        "Bill Amt": 200.0,
+        "Flag": 0
+    },
+    "DA-1570": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            6921.0
+        ],
+        "Bill Amt": 6921.0,
+        "Flag": 0
+    },
+    "DA-1571": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            3044.0
+        ],
+        "Bill Amt": 3044.0,
+        "Flag": 0
+    },
+    "DA-1572": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            3498.0
+        ],
+        "Bill Amt": 3498.0,
+        "Flag": 0
+    },
+    "DA-1573": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            6984.0
+        ],
+        "Bill Amt": 6984.0,
+        "Flag": 0
+    },
+    "DA-1574": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            2744.0
+        ],
+        "Bill Amt": 2744.0,
+        "Flag": 0
+    },
+    "DA-1575": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            1000.0
+        ],
+        "Bill Amt": 1000.0,
+        "Flag": 0
+    },
+    "DA-1576": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            2530.0
+        ],
+        "Bill Amt": 2530.0,
+        "Flag": 0
+    },
+    "DA-1577": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            9596.0
+        ],
+        "Bill Amt": 9596.0,
+        "Flag": 0
+    },
+    "DA-1578": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            4500.0
+        ],
+        "Bill Amt": 4500.0,
+        "Flag": 0
+    },
+    "DA-1579": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            4089.0
+        ],
+        "Bill Amt": 4089.0,
+        "Flag": 0
+    },
+    "DA-1580": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            995.0
+        ],
+        "Bill Amt": 995.0,
+        "Flag": 0
+    },
+    "DA-1581": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            3095.0
+        ],
+        "Bill Amt": 3095.0,
+        "Flag": 0
+    },
+    "DA-1582": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            1045.0
+        ],
+        "Bill Amt": 1045.0,
+        "Flag": 0
+    },
+    "DA-1583": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            10890.0
+        ],
+        "Bill Amt": 10890.0,
+        "Flag": 0
+    },
+    "DA-1584": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            3014.0
+        ],
+        "Bill Amt": 3014.0,
+        "Flag": 0
+    },
+    "DA-1585": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            3050.0
+        ],
+        "Bill Amt": 3050.0,
+        "Flag": 0
+    },
+    "DA-1586": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            1895.0
+        ],
+        "Bill Amt": 1895.0,
+        "Flag": 0
+    },
+    "DA-1587": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            4095.0
+        ],
+        "Bill Amt": 4095.0,
+        "Flag": 0
+    },
+    "DA-1588": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            19644.0
+        ],
+        "Bill Amt": 19644.0,
+        "Flag": 0
+    },
+    "DA-1589": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            2691.0
+        ],
+        "Bill Amt": 2691.0,
+        "Flag": 0
+    },
+    "DA-1590": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            2935.0
+        ],
+        "Bill Amt": 2935.0,
+        "Flag": 0
+    },
+    "DA-1591": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            2053.0
+        ],
+        "Bill Amt": 2053.0,
+        "Flag": 0
+    },
+    "DA-1592": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            4285.0
+        ],
+        "Bill Amt": 4285.0,
+        "Flag": 0
+    },
+    "DA-1593": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            4490.0
+        ],
+        "Bill Amt": 4490.0,
+        "Flag": 0
+    },
+    "DA-1594": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            4398.0
+        ],
+        "Bill Amt": 4398.0,
+        "Flag": 0
+    },
+    "DA-1595": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            1395.0
+        ],
+        "Bill Amt": 1395.0,
+        "Flag": 0
+    },
+    "DA-1596": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            2295.0
+        ],
+        "Bill Amt": 2295.0,
+        "Flag": 0
+    },
+    "DA-1597": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            1595.0
+        ],
+        "Bill Amt": 1595.0,
+        "Flag": 0
+    },
+    "DA-1598": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            4394.0
+        ],
+        "Bill Amt": 4394.0,
+        "Flag": 0
+    },
+    "DA-1599": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            2000.0,
+            1194.0
+        ],
+        "Bill Amt": 3194.0,
+        "Flag": 0
+    },
+    "DA-1600": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            7484.0
+        ],
+        "Bill Amt": 7484.0,
+        "Flag": 0
+    },
+    "DA-1601": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            2696.0
+        ],
+        "Bill Amt": 2696.0,
+        "Flag": 0
+    },
+    "DA-1602": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            2985.0
+        ],
+        "Bill Amt": 2985.0,
+        "Flag": 0
+    },
+    "DA-1603": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            4590.0
+        ],
+        "Bill Amt": 4590.0,
+        "Flag": 0
+    },
+    "DA-1604": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            2794.0
+        ],
+        "Bill Amt": 2794.0,
+        "Flag": 0
+    },
+    "DA-1605": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            2099.0
+        ],
+        "Bill Amt": 2099.0,
+        "Flag": 0
+    },
+    "DA-1606": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            5722.0
+        ],
+        "Bill Amt": 5722.0,
+        "Flag": 0
+    },
+    "DA-1607": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            539.0
+        ],
+        "Bill Amt": 539.0,
+        "Flag": 0
+    },
+    "DA-1608": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            3295.0
+        ],
+        "Bill Amt": 3295.0,
+        "Flag": 0
+    },
+    "DA-1609": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            2040.0
+        ],
+        "Bill Amt": 2040.0,
+        "Flag": 0
+    },
+    "DA-1610": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            4985.0
+        ],
+        "Bill Amt": 4985.0,
+        "Flag": 0
+    },
+    "DA-1611": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            8335.0
+        ],
+        "Bill Amt": 8335.0,
+        "Flag": 0
+    },
+    "DA-1612": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            2899.0
+        ],
+        "Bill Amt": 2899.0,
+        "Flag": 0
+    },
+    "DA-1613": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            1495.0
+        ],
+        "Bill Amt": 1495.0,
+        "Flag": 0
+    },
+    "DA-1614": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            1495.0
+        ],
+        "Bill Amt": 1495.0,
+        "Flag": 0
+    },
+    "DA-1615": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            2340.0
+        ],
+        "Bill Amt": 2340.0,
+        "Flag": 0
+    },
+    "DA-1616": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            5734.0
+        ],
+        "Bill Amt": 5734.0,
+        "Flag": 0
+    },
+    "DA-1617": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            4080.0
+        ],
+        "Bill Amt": 4080.0,
+        "Flag": 0
+    },
+    "DA-1618": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            6246.0
+        ],
+        "Bill Amt": 6246.0,
+        "Flag": 0
+    },
+    "DA-1619": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            6588.0
+        ],
+        "Bill Amt": 6588.0,
+        "Flag": 0
+    },
+    "DA-1620": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            2557.0
+        ],
+        "Bill Amt": 2557.0,
+        "Flag": 0
+    },
+    "DA-1621": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            5643.0
+        ],
+        "Bill Amt": 5643.0,
+        "Flag": 0
+    },
+    "DA-1622": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            1395.0
+        ],
+        "Bill Amt": 1395.0,
+        "Flag": 0
+    },
+    "DA-1623": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            1500.0,
+            1483.0
+        ],
+        "Bill Amt": 2983.0,
+        "Flag": 0
+    },
+    "DA-1624": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            3690.0
+        ],
+        "Bill Amt": 3690.0,
+        "Flag": 0
+    },
+    "DA-1625": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            349.0
+        ],
+        "Bill Amt": 349.0,
+        "Flag": 0
+    },
+    "DA-1626": {
+        "Payment Modes": [
+            2
+        ],
+        "Recieved Amt": [
+            29148.0
+        ],
+        "Bill Amt": 29148.0,
+        "Flag": 0
+    },
+    "DA-1627": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            4789.0
+        ],
+        "Bill Amt": 4789.0,
+        "Flag": 0
+    },
+    "DA-1628": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            11765.0
+        ],
+        "Bill Amt": 11765.0,
+        "Flag": 0
+    },
+    "DA-1629": {
+        "Payment Modes": [
+            5
+        ],
+        "Recieved Amt": [
+            808.0
+        ],
+        "Bill Amt": 808.0,
+        "Flag": 0
+    },
+    "DA-1630": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            509.0,
+            200.0,
+            300.0,
+            200.0,
+            100.0
+        ],
+        "Bill Amt": 1309.0,
+        "Flag": 0
+    },
+    "DA-1631": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            461.0
+        ],
+        "Bill Amt": 461.0,
+        "Flag": 0
+    },
+    "DA-1632": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            1790.0
+        ],
+        "Bill Amt": 1790.0,
+        "Flag": 0
+    },
+    "DA-1633": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            1000.0
+        ],
+        "Bill Amt": 1000.0,
+        "Flag": 0
+    },
+    "DA-1634": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            600.0,
+            50.0,
+            50.0,
+            50.0,
+            50.0,
+            150.0,
+            50.0
+        ],
+        "Bill Amt": 1000.0,
+        "Flag": 0
+    },
+    "DA-1635": {
+        "Payment Modes": [
+            1
+        ],
+        "Recieved Amt": [
+            1000.0
+        ],
+        "Bill Amt": 1000.0,
+        "Flag": 0
+    }
+}
