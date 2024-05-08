@@ -1,0 +1,750 @@
+{
+    "CO-ORD-SET": {
+        "3": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "5": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "12": {
+            "Quantity": 3.0,
+            "Gross Mrp": 8625.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 8625.0,
+            "GST": 924.1,
+            "Net Sales": 7700.89
+        },
+        "18": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "28": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "Total": {
+            "Quantity": 3,
+            "Gross Mrp": 8625.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 8625.0,
+            "GST": 924.1,
+            "Net Sales": 7700.89
+        }
+    },
+    "D/M": {
+        "3": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "5": {
+            "Quantity": 1.0,
+            "Gross Mrp": 2595.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 2595.0,
+            "GST": 123.58,
+            "Net Sales": 2471.43
+        },
+        "12": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "18": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "28": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "Total": {
+            "Quantity": 1,
+            "Gross Mrp": 2595.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 2595.0,
+            "GST": 123.58,
+            "Net Sales": 2471.43
+        }
+    },
+    "DRESS": {
+        "3": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "5": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "12": {
+            "Quantity": -1.0,
+            "Gross Mrp": -1995.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": -1995.0,
+            "GST": -213.76,
+            "Net Sales": -1781.25
+        },
+        "18": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "28": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "Total": {
+            "Quantity": -1,
+            "Gross Mrp": -1995.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": -1995.0,
+            "GST": -213.76,
+            "Net Sales": -1781.25
+        }
+    },
+    "JEANS": {
+        "3": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "5": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "12": {
+            "Quantity": 3.0,
+            "Gross Mrp": 4299.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": -87.12,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 4211.67,
+            "GST": 451.28,
+            "Net Sales": 3760.61
+        },
+        "18": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "28": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "Total": {
+            "Quantity": 3,
+            "Gross Mrp": 4299.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": -87.12,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 4211.67,
+            "GST": 451.28,
+            "Net Sales": 3760.61
+        }
+    },
+    "KURTIE": {
+        "3": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "5": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "12": {
+            "Quantity": 3.0,
+            "Gross Mrp": 9275.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": -316.08,
+            "Gross Sales": 8958.92,
+            "GST": 959.88,
+            "Net Sales": 7999.04
+        },
+        "18": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "28": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "Total": {
+            "Quantity": 3,
+            "Gross Mrp": 9275.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": -316.08,
+            "Gross Sales": 8958.92,
+            "GST": 959.88,
+            "Net Sales": 7999.04
+        }
+    },
+    "PANT": {
+        "3": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "5": {
+            "Quantity": 2.0,
+            "Gross Mrp": 1675.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": -197.51,
+            "Gross Sales": 1477.49,
+            "GST": 70.36,
+            "Net Sales": 1407.13
+        },
+        "12": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "18": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "28": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "Total": {
+            "Quantity": 2,
+            "Gross Mrp": 1675.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": -197.51,
+            "Gross Sales": 1477.49,
+            "GST": 70.36,
+            "Net Sales": 1407.13
+        }
+    },
+    "SALWAR-KAMEEZ": {
+        "3": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "5": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "12": {
+            "Quantity": 10.0,
+            "Gross Mrp": 56700.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": -2068.5,
+            "Flat Disc": 0.0,
+            "Less Exch": -391.15,
+            "Gross Sales": 54240.85,
+            "GST": 5811.46,
+            "Net Sales": 48428.88
+        },
+        "18": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "28": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "Total": {
+            "Quantity": 10,
+            "Gross Mrp": 56700.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": -2068.5,
+            "Flat Disc": 0.0,
+            "Less Exch": -391.15,
+            "Gross Sales": 54240.85,
+            "GST": 5811.46,
+            "Net Sales": 48428.88
+        }
+    },
+    "SHIRT": {
+        "3": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "5": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "12": {
+            "Quantity": 1.0,
+            "Gross Mrp": 1595.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 1595.0,
+            "GST": 170.9,
+            "Net Sales": 1424.11
+        },
+        "18": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "28": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "Total": {
+            "Quantity": 1,
+            "Gross Mrp": 1595.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 1595.0,
+            "GST": 170.9,
+            "Net Sales": 1424.11
+        }
+    },
+    "SWEATER": {
+        "3": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "5": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "12": {
+            "Quantity": 1.0,
+            "Gross Mrp": 1799.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 1799.0,
+            "GST": 192.76,
+            "Net Sales": 1606.25
+        },
+        "18": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "28": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "Total": {
+            "Quantity": 1,
+            "Gross Mrp": 1799.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 1799.0,
+            "GST": 192.76,
+            "Net Sales": 1606.25
+        }
+    },
+    "TOP": {
+        "3": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "5": {
+            "Quantity": 3.0,
+            "Gross Mrp": 3089.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": -92.67,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 2996.33,
+            "GST": 142.68,
+            "Net Sales": 2853.65
+        },
+        "12": {
+            "Quantity": 6.0,
+            "Gross Mrp": 12078.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": -390.26,
+            "Gross Sales": 11687.74,
+            "GST": 1252.26,
+            "Net Sales": 10435.48
+        },
+        "18": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "28": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "Total": {
+            "Quantity": 9,
+            "Gross Mrp": 15167.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": -92.67,
+            "Flat Disc": 0.0,
+            "Less Exch": -390.26,
+            "Gross Sales": 14684.07,
+            "GST": 1394.94,
+            "Net Sales": 13289.13
+        }
+    },
+    "Grand Total": {
+        "3": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "5": {
+            "Quantity": 6.0,
+            "Gross Mrp": 7359.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": -92.67,
+            "Flat Disc": 0.0,
+            "Less Exch": -197.51,
+            "Gross Sales": 7068.82,
+            "GST": 336.62,
+            "Net Sales": 6732.21
+        },
+        "12": {
+            "Quantity": 26.0,
+            "Gross Mrp": 92376.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": -2155.62,
+            "Flat Disc": 0.0,
+            "Less Exch": -1097.49,
+            "Gross Sales": 89123.18000000001,
+            "GST": 9548.88,
+            "Net Sales": 79574.01
+        },
+        "18": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "28": {
+            "Quantity": 0.0,
+            "Gross Mrp": 0.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": 0.0,
+            "Flat Disc": 0.0,
+            "Less Exch": 0.0,
+            "Gross Sales": 0.0,
+            "GST": 0.0,
+            "Net Sales": 0.0
+        },
+        "Total": {
+            "Quantity": 32,
+            "Gross Mrp": 99735.0,
+            "Addl Chrgs": 0.0,
+            "Sales Disc": -2248.29,
+            "Flat Disc": 0.0,
+            "Less Exch": -1295.0,
+            "Gross Sales": 96192.0,
+            "GST": 9885.5,
+            "Net Sales": 86306.22
+        }
+    }
+}
